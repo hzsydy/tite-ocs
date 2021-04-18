@@ -105,16 +105,16 @@ public class BasicCommandEncoderOverride extends BasicCommandEncoder {
                 }
                 return new Aircraft(type, inner);
             }
-            
+
             public String[] fighters = {
                 /* Baltic Gap */
                 "La-5", "Yak-9", "Gd La-5", "Gd Yak-9", "Bf-109", "Bf-109 (inexperienced)", "Fw-190", "Fw-190 (inexperienced)", "Me-262",
                 /* case blue */
                 "Bf.109e", "Bf.109e7", "Bf.109f", "Bf.109g", "Bf.110", "Fw.190a", "Fw.190a5", "Hs.123",
-                "Hurri.iic MMD", "Hurri.IIc", "I.15", "I.16 MMD", "I.16", "La-5 (Gd)", "La.5 MMD", "La.5 (Gd)",
+                "Hurri.IIc MMD", "Hurri.IIc", "I.15", "I.16 MMD", "I.16", "La-5 (Gd)", "La.5 MMD", "La.5 (Gd)", "La.5",
                 "LaGG.3 (Gd)", "LaGG.3", "LaGG.3 MMD", "MiG.1", "MiG.3 MMD", "MiG.3",
-                "P.39 (Gd)", "P.39", "P.40 MMD", "P.40", "Spit.V", "Yak-1 (Gd)", "Yak-1 MMD", "Yak-1", "Yak-7b (Gd)", "Yak-7b MMD", "Yak-7b",
-                "Yak-9 (Gd)", "Yak-9 MMD", "Yak-9", "Hun Bf.109f", "Hun Bf.109g", "Hun CR.42", "Hun Re.2000", "It MC.200", "It MC.202",
+                "P.39 (Gd)", "P.39", "P.40 MMD", "P.40", "Spit.V", "Yak.1 (Gd)", "Yak.1 MMD", "Yak.1", "Yak.7b (Gd)", "Yak.7b MMD", "Yak.7b",
+                "Yak.9 (Gd)", "Yak.9 MMD", "Yak.9", "Hun Bf.109f", "Hun Bf.109g", "Hun CR.42", "Hun Re.2000", "It MC.200", "It MC.202",
                 "Croat Bf.109g", "Slovak B.534", "Slovak Bf.109e", "Rum Bf.109e", "Slovak Bf.109f",
                 /* DAk */
                 "Gladiator", "Hurri1", "HurriI", "HurriIIa", "HurriIIc", "HurriIId", "Ktyhk", "SpitVb", "P-40",
