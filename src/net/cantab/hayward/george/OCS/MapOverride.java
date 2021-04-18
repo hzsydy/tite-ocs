@@ -58,6 +58,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JViewport;
 import javax.swing.KeyStroke;
 import javax.swing.SwingUtilities;
+import static VASSAL.preferences.Prefs.MAIN_WINDOW_HEIGHT;
 
 /**
  * This is a special version of map which will switch between different "views"
